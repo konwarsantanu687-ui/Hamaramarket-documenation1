@@ -7,6 +7,7 @@
     }
   ],
   "routes": [
-    { "src": "/", "dest": "/index12.html" }
+    { "src": "/", "dest": "/index13.html" }
   ]
 }
+
